@@ -7,9 +7,9 @@ const person: Person = {
   name: `Suelen Silva`,
   role: "Design Engineer",
   avatar: "/images/avatar.jpg",
-  email: "example@gmail.com",
-  location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-  languages: ["English", "Bahasa"], // optional: Leave the array empty if you don't want to display languages
+  email: "susvitoria1@gmail.com",
+  location: "Brasil", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+  languages: ["English", "Portuguese"], // optional: Leave the array empty if you don't want to display languages
 };
 
 const newsletter: Newsletter = {
